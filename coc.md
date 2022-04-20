@@ -58,4 +58,4 @@ Third party dispute resolution, and recognition of community member feelings are
 
 To contact the author of this Code of Conduct please see attached [Author](mailto:gabriel971887@my.yosemite.edu)
 
-This CoC was based on the [LGBTQ in Tech](https://lgbtq.technology/) Code of Conduct which is under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) License. You may use this or the document it was based on with Zero Attribution!
+This CoC was based on the [LGBTQ in Tech](https://lgbtq.technology/) Code of Conduct which is under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 
