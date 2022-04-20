@@ -2,7 +2,7 @@
 
 Below, you’ll find the Code of Conduct for Dev209 at MJC --
 If you are a student of Modesto Junior College, note that you are bound by all enforcement of the Institutions rules of conduct outlined [here](https://www.yosemite.edu/trustees/board_policy/5500%20Standards%20of%20Student%20Conduct.pdf).
-Your participation in the Dev209 community will an explicit choice, and so this code intends to be explicit on behavior this community can not tolerate.
+Your participation in the Dev209 community will be an explicit choice, and so this code intends to be explicit on behavior this community can not tolerate.
 ## Conduct
 
 * No harassment.
