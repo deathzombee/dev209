@@ -12,4 +12,4 @@ Call Us at (209)-300-0173
 
 dev209's [CoC](coc.html)
 
-Git primer with no assumed knowledge [here](primer.md)
+Git primer with no assumed knowledge [here](git_primer.md)
