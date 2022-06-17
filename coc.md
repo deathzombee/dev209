@@ -2,7 +2,7 @@
 
 Below, you’ll find the Code of Conduct for Dev209 at MJC --
 If you are a student of Modesto Junior College, note that you are bound by all enforcement of the Institutions rules of conduct outlined [here](https://www.yosemite.edu/trustees/board_policy/5500%20Standards%20of%20Student%20Conduct.pdf).
-Your participation in the Dev209 community will an explicit choice, and so this code intends to be explicit on behavior this community can not tolerate.
+Your participation in the Dev209 community will be an explicit choice, and so this code intends to be explicit on behavior this community can not tolerate.
 ## Conduct
 
 * No harassment.
@@ -58,4 +58,4 @@ Third party dispute resolution, and recognition of community member feelings are
 
 To contact the author of this Code of Conduct please see attached [Author](mailto:gabriel971887@my.yosemite.edu)
 
-This CoC was based on the [LGBTQ in Tech](https://lgbtq.technology/) Code of Conduct which is under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) License. You may use this or the document it was based on with Zero Attribution!
+This CoC was based on the [LGBTQ in Tech](https://lgbtq.technology/) Code of Conduct which is under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 
