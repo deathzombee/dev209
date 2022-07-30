@@ -7,6 +7,10 @@
 
 Open Source Community focused on organizing California's Central Valley residing Computer Science Students. 
 
+## Mission and Vision of Dev209
+>Our Mission is to maintain a support structure for Students of all backgrounds with a vested interest in technology, so that each<br/>
+member leaves with the skills and ethics to make positive impacts on the tech industry and world.
+
 Call Us at (209)-300-0173
 > phone number brought to you by Twilio's Social Impact program, and is still in development check back for updates!
 
