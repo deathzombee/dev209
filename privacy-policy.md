@@ -54,7 +54,6 @@ We do not integrate with any third-party services, social media platforms, or ex
 
 If you have any questions about this privacy policy, you can contact us at:
 
-- Email: `privacy@doomfire.app`
 - Email: `arfarfwegotcha@gmail.com`
 
 ---
